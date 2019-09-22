@@ -1,5 +1,5 @@
 <h2 align="center"> Deep Dictionary <h2>
-<h4 align =" center> Find the meaning of the word </h4>
+
 
 <h3> Installation* <h3>
 **NOTE**: Python 3.6 or higher is required. 
