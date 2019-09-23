@@ -46,7 +46,7 @@
 
         Find another word ? y(yes) or n(n) : 
         
-<br>
+
 © Deep-Dictionary <br>
 version 0.2 <br>
 Licensed under the [MIT License](LICENSE).
