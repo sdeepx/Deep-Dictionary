@@ -48,4 +48,5 @@
         
 <br>
 © Deep-Dictionary <br>
-version 0.2
+version 0.2 <br>
+Licensed under the [MIT License](LICENSE).
