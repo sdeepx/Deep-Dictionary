@@ -49,4 +49,4 @@
 <br>
 © Deep-Dictionary <br>
 version 0.2 <br>
-License under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).
