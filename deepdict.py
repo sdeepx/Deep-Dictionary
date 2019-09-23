@@ -123,7 +123,7 @@ def inp():
              ▘▘  ▝▀  ▘   ▝▀▘ ▝▘ ''')
 
         if len(word) == 0:
-            print("[-] You didn't the word \n")
+            print("[-] You didn't enter the word \n")
             return inp()
         oup = deep_dict(word)
         if type(oup) == list:
